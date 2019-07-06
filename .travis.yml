@@ -36,4 +36,4 @@ script:
 
 after_script:
   # upload coverage.xml file to Coveralls to analyze it
-  - php vendor/bin/coveralls -v
+  - vendor/bin/coveralls -v
