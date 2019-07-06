@@ -31,7 +31,7 @@
     },
     "require-dev": {
         "phpunit/phpunit": "^8",
-        "satooshi/php-coveralls": "dev-master"
+        "satooshi/php-coveralls": "*"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
