@@ -19,9 +19,6 @@ matrix:
   fast_finish: true
   allow_failures:
     - php: nightly
-  include:
-    - php: 7.0
-      env: dependencies=lowest
 
 cache:
   directories:
