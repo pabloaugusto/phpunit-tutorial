@@ -1,0 +1,29 @@
+{
+    "name": "pabloaugusto/phpunit-tutorial",
+    "description": "A simple PHP project to learn phpunit TDD",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+    {
+      "name": "Pablo Augusto",
+      "email": "pablo@pabloaugusto.com"
+    }
+    ],
+    "version" : "v1.0",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "App\\Test\\": "tests/"
+        }
+    },
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
