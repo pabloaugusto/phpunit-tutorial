@@ -2,7 +2,7 @@
 
 [![badge_build]][link-travis]
 [![badge_issues]][link-github-issues]
-[![badge-lastcommit][link-github-repo]
+[![badge-lastcommit]][link-github-repo]
 
 
 
