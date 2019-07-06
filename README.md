@@ -2,13 +2,7 @@
 
 [![Travis Status][badge_build]][link-travis]
 [![Coverage Status][badge_coverage]][link-scrutinizer]
-[![Scrutinizer Code Quality][badge_quality]][link-scrutinizer]
-[![SensioLabs Insight][badge_insight]][link-insight]
 [![Github Issues][badge_issues]][link-github-issues]
-
-[![Packagist][badge_package]][link-packagist]
-[![Packagist Release][badge_release]][link-packagist]
-[![Packagist Downloads][badge_downloads]][link-packagist]
 
 
 A simple PHP project to learn the basic of TDD with phpunit
