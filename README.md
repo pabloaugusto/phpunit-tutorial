@@ -1,4 +1,9 @@
-# Simple phpunit TDD tutorial
+# Simple phpunit TDD tutorial [![Packagist License][badge_license]](LICENSE.md) [![For PHP][badge_php]][link-github-repo]
+[![Travis Status][badge_build]][link-travis]
+[![Coverage Status][badge_coverage]][link-travis]
+[![Github Issues][badge_issues]][link-github-issues]
+
+
 A simple PHP project to learn the basic of TDD with phpunit
 
 ## Objecives
