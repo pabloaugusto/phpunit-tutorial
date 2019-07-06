@@ -30,7 +30,8 @@
         "php": ">=7.2.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "^8"
+        "phpunit/phpunit": "^8",
+        "satooshi/php-coveralls": "dev-master"
     },
     "minimum-stability": "dev",
     "prefer-stable": true
