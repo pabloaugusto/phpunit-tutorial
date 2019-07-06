@@ -2,6 +2,7 @@
 
 [![Travis Status][badge_build]][link-travis]
 [![Github Issues][badge_issues]][link-github-issues]
+[![Last Commit][badge_lastcommit]][link-github-repo]
 
 
 
@@ -56,7 +57,6 @@ or, if you have phpunit at your path:
 
 [badge_build]:        https://img.shields.io/travis/pabloaugusto/phpunit-tutorial.svg?style=flat-square
 [badge_issues]:       https://img.shields.io/github/issues/pabloaugusto/phpunit-tutorial.svg?style=flat-square
-[badge_downloads]:    https://img.shields.io/packagist/dt/arcanedev/seo-helper.svg?style=flat-square
 [badge-lastcommit]:   https://img.shields.io/github/last-commit/pabloaugusto/phpunit-tutorial.svg
 [badge-license]:      https://img.shields.io/github/license/pabloaugusto/phpunit-tutorial.svg
 
