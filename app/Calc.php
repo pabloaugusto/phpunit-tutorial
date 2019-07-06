@@ -2,13 +2,14 @@
 
 namespace App;
 
-class Calc {
-    
-    function soma($a, $b) {
+class Calc
+{
+    public function soma($a, $b)
+    {
         return $a+$b;
     }
     
-    function subtracao($a, $b)
+    public function subtracao($a, $b)
     {
         return $a-$b;
     }
