@@ -1,4 +1,4 @@
-# Simple phpunit TDD tutorial [[badge-license]][link-license]
+# Simple phpunit TDD tutorial [![badge-license]][link-license]
 
 [![Travis Status][badge_build]][link-travis]
 [![Github Issues][badge_issues]][link-github-issues]
