@@ -1,8 +1,8 @@
 # Simple phpunit TDD tutorial [![badge-license]][link-license]
 
-[![Travis Status][badge_build]][link-travis]
-[![Github Issues][badge_issues]][link-github-issues]
-[![Last Commit][badge_lastcommit]][link-github-repo]
+[![badge_build]][link-travis]
+[![badge_issues]][link-github-issues]
+[![badge-lastcommit][link-github-repo]
 
 
 
@@ -44,7 +44,7 @@ Run the tests with command:
     cd phpunit-tutorial
     ./vendor/bin/phpunit
 
-or, if you have phpunit at your path:
+or, if you have phpunit at your path:[link-github-issues]
 
     cd phpunit-tutorial
     phpunit
