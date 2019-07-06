@@ -2,6 +2,10 @@ language: php
 
 sudo: false
 
+notifications:
+  email:
+    #on_success: never
+
 branches:
   only:
   - master
@@ -9,6 +13,20 @@ branches:
 php:
   - 7.2
   - 7.3
+  - nightly
+
+matrix:
+  fast_finish: true
+  allow_failures:
+    - php: nightly
+  include:
+    - php: 7.0
+      env: dependencies=lowest
+
+cache:
+  directories:
+    - $HOME/.composer/cache
+
 
 before_script:
   - travis_retry composer self-update
@@ -17,8 +35,8 @@ before_script:
 script:
   - composer validate
   - mkdir -p build/logs
-  - vendor/bin/phpunit --coverage-text --coverage-clover=coverage.clover
   - vendor/bin/phpunit --coverage-clover build/logs/clover.xml
 
 after_script:
- - vendor/bin/coveralls -v
+  # upload coverage.xml file to Coveralls to analyze it
+  - php vendor/bin/coveralls -v
