@@ -1,4 +1,4 @@
-# Simple phpunit TDD tutorial [![Packagist License][badge_license]](LICENSE.md) [![For PHP][badge_php]][link-github-repo]
+# Simple phpunit TDD tutorial [![Packagist License][badge_license]](LICENSE.md)
 
 [![Travis Status][badge_build]][link-travis]
 [![Coverage Status][badge_coverage]][link-scrutinizer]
@@ -71,11 +71,8 @@ or, if you have phpunit at your path:
 [badge_release]:      https://img.shields.io/packagist/v/arcanedev/seo-helper.svg?style=flat-square
 [badge_downloads]:    https://img.shields.io/packagist/dt/arcanedev/seo-helper.svg?style=flat-square
 
-[link-author]:        https://github.com/arcanedev-maroc
-[link-github-repo]:   https://github.com/ARCANEDEV/SEO-Helper
-[link-github-issues]: https://github.com/ARCANEDEV/SEO-Helper/issues
-[link-contributors]:  https://github.com/ARCANEDEV/SEO-Helper/graphs/contributors
-[link-packagist]:     https://packagist.org/packages/arcanedev/seo-helper
-[link-travis]:        https://travis-ci.org/ARCANEDEV/SEO-Helper
-[link-scrutinizer]:   https://scrutinizer-ci.com/g/ARCANEDEV/SEO-Helper/?branch=master
-[link-insight]:       https://insight.sensiolabs.com/projects/73e1a779-7ca7-4a75-b6d3-452d7852187e
+[link-author]:        https://github.com/pabloaugusto
+[link-github-repo]:   https://github.com/pabloaugusto/phpunit-tutorial
+[link-github-issues]: https://github.com/pabloaugusto/phpunit-tutorial/issues
+[link-contributors]:  https://github.com/pabloaugusto/phpunit-tutorial/graphs/contributors
+[link-travis]:        https://travis-ci.org/pabloaugusto/phpunit-tutorial
