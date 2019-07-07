@@ -4,8 +4,10 @@ sudo: false
 
 notifications:
   email:
+    recipients:
+      - pablo@pabloaugusto.com
     #on_success: never
-    - pablo@pabloaugusto.com
+    #on_failure: always
 
 branches:
   only:

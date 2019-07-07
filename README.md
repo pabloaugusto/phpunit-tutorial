@@ -1,6 +1,7 @@
 # Simple phpunit TDD tutorial [![badge-license]][link-license]
 
 [![badge_build]][link-travis]
+[![badge-coverage]][link-coverage]
 [![badge_issues]][link-github-issues]
 [![badge-lastcommit]][link-github-repo]
 
@@ -59,6 +60,7 @@ or, if you have phpunit at your path:[link-github-issues]
 [badge_issues]:       https://img.shields.io/github/issues/pabloaugusto/phpunit-tutorial.svg?style=flat-square
 [badge-lastcommit]:   https://img.shields.io/github/last-commit/pabloaugusto/phpunit-tutorial.svg
 [badge-license]:      https://img.shields.io/github/license/pabloaugusto/phpunit-tutorial.svg
+[badge-coverage]:     https://coveralls.io/repos/github/pabloaugusto/phpunit-tutorial/badge.svg?branch=master
 
 [link-author]:        https://github.com/pabloaugusto
 [link-github-repo]:   https://github.com/pabloaugusto/phpunit-tutorial
@@ -66,3 +68,6 @@ or, if you have phpunit at your path:[link-github-issues]
 [link-contributors]:  https://github.com/pabloaugusto/phpunit-tutorial/graphs/contributors
 [link-travis]:        https://travis-ci.org/pabloaugusto/phpunit-tutorial
 [link-license]:       https://github.com/pabloaugusto/phpunit-tutorial/blob/master/LICENSE
+[link-coverage]:      https://coveralls.io/github/pabloaugusto/phpunit-tutorial?branch=master
+
+
